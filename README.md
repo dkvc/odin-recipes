@@ -2,5 +2,5 @@
 Odin Recipes is a project which shows some of beautiful recipes from Odin. We're happy if you try them!
 
 ## Credits
-![The Odin Project](https://theodinproject.com)
+![The Odin Project](https://theodinproject.com)<br>
 ![AllRecipes](https://www.allrecipes.com)
