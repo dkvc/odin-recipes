@@ -10,6 +10,16 @@ h1 {
 }
 
 li {
+    background-color: #2f2f2f;
     padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
     list-style: square;
+    display: inline;
+}
+
+/* Don't change color even after visiting the link */
+a {
+    color: #fff;
+    text-decoration: none;
 }
