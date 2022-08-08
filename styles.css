@@ -1,0 +1,15 @@
+/* Dark mode by default */
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+/* Heading must be in center */
+h1 {
+    text-align: center;
+}
+
+li {
+    padding: 5px;
+    list-style: square;
+}

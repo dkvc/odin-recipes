@@ -1,0 +1,25 @@
+/* Dark mode by default */
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+/* Center main heading */
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: #2f2f2f;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Image Size: 400 x auto -- align image center*/
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
