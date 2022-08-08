@@ -11,9 +11,10 @@ h1 {
 
 div {
     background-color: #2f2f2f;
+    border-radius: 5px;
     color: #fff;
-    padding: 20px;
     margin: 20px;
+    padding: 20px;
 }
 
 /* Image Size: 400 x auto -- align image center*/
@@ -22,4 +23,20 @@ img {
     height: auto;
     display: block;
     margin: 0 auto;
+}
+
+/* Align to Right */
+h5 {
+    background-color: #2f2f2f;
+    border-radius: 5px;
+    display: inline;
+    font-size: 14px;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Don't change color even after visiting the link */
+a {
+    color: #fff;
+    text-decoration: none;
 }
